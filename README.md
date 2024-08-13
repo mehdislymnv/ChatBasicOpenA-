@@ -15,7 +15,7 @@ Layihəni klonladıqdan sonra aşağıdakı əmri yerinə yetirərək lokal serv
 
 ```bash
 php -S localhost:8000
-
+```
 
 ### VIDEO
 - https://youtu.be/n6y63WoeWR4
