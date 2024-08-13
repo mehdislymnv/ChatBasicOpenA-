@@ -1,0 +1,46 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f9f9fa;
+}
+.container{
+    justify-content: center;
+    max-height: 80%;
+    padding: 12px 20px;
+    width: 500px;
+}
+.media-chat{
+    display: block;
+    padding: 8px 10px;
+    margin: 6px 0;
+    background-color: #f5f6f7;
+    border: 1px solid #41414120;
+    border-radius: 6px;
+    color: #414141;
+    font-weight: 400;
+}
+.media-chat-reverse{
+    background-color: #7c84cf;
+    color: white;
+}
+.publisher{
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 4px 6px;
+    background-color: #41414120;
+}
+.chat-input{
+    border: none;
+    flex-grow: 1;
+    outline: none;
+    height: 100%;
+    padding: 10px 8px;
+}
+.chat-box{
+    overflow-y: scroll;
+    height: 450px;
+}
