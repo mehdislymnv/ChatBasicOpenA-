@@ -4,6 +4,10 @@ Bu layihə, PHP və cURL istifadə edərək OpenAI API-yə sorğular göndərmə
 
 ## İstifadə Qaydası
 
+
+### Video
+- https://youtu.be/n6y63WoeWR4
+
 ### Tələblər
 - PHP 7.4 və ya daha yuxarı versiya
 - cURL dəstəyi (PHP-də quraşdırılmış olmalıdır)
@@ -15,3 +19,8 @@ Layihəni klonladıqdan sonra aşağıdakı əmri yerinə yetirərək lokal serv
 
 ```bash
 php -S localhost:8000
+
+```
+
+### Video
+- https://youtu.be/n6y63WoeWR4
